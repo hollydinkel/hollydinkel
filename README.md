@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://github.com/JeffersonAero/JeffersonAero/blob/main/random_walk.jpg" alt="banner" width="700px"/>
 </div>
@@ -9,7 +8,7 @@
 I am an aerospace engineering Ph.D. candidate at the University of Illinois at Urbana-Champaign where I am supported by a NASA Space Technology Graduate Research Opportunity award. I am currently leading development of robotic caretaking capabilities for autonomous robots in space habitats which may be uncrewed for long durations as part of the <a href="https://github.com/RMDLO"> Representing and Manipulating Deformable Linear Objects (RMDLO) </a> project. I previously earned the M.S. degree in aeronautics and astronautics at Stanford University and the B.S. and B.A. degrees in chemical engineering and music from the University of Missouri, Columbia.  
 
 <h2 align="center">💥 My Growing Stack</h2>
-Hardware: ABB IRB 120 6DOF Manipulator, Universal Robots UR5e 6DOF Manipulator, Rethink Robotics Sawyer 7DOF Manipulator, Intel RealSense Camera, Robotiq Hand-E Adaptive Gripper, OnRobot 2FG7 Parallel-Jaw Gripper, ZED Mini Stereo Camera, DIGIT GelSight Tactile Sensor, and a Turtlebot with Velodyne LiDAR 🐢 
+Hardware: ABB IRB 120 6DOF Manipulator, Universal Robots UR5e 6DOF Manipulator, Rethink Robotics Sawyer 7DOF Manipulator, Intel RealSense Camera, Oak-D Pro Camera, ZED Mini Stereo Camera, Robotiq Hand-E Adaptive Gripper, OnRobot 2FG7 Parallel-Jaw Gripper, DIGIT GelSight Tactile Sensor, and a Turtlebot with Velodyne LiDAR 🐢 
 <br>
 Languages: Python, Matlab
 <br>
@@ -17,8 +16,8 @@ Additional Tools: Git, GitHub, Robot Operating System (ROS), Blender, PyTorch, T
   
 <h2  align="center">💻 GitHub Statistics </h2>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonAero&count_private=true)](https://github.com/JeffersonAero)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonAero&layout=compact&langs_count=6&count_private=true)](https://github.com/JeffersonAero)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonAero&count_private=true)](https://github.com/hollydinkel)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonAero&layout=compact&langs_count=6&count_private=true)](https://github.com/JeffersonAero)
 
 <h2  align="center">📫 Follow Along </h2>
 <p align="center">
@@ -34,5 +33,5 @@ Additional Tools: Git, GitHub, Robot Operating System (ROS), Blender, PyTorch, T
   
 </p>
  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=JeffersonAero" alt="https://github.com/JeffersonAero" />
+  <img src="https://komarev.com/ghpvc/?username=hollydinkel" alt="https://github.com/hollydinkel" />
 </p>

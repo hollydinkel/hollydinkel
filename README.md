@@ -11,9 +11,9 @@ I am an aerospace engineering Ph.D. candidate at the University of Illinois at U
 <h2 align="center">💥 My Growing Stack</h2>
 Hardware: ABB IRB 120 6DOF Manipulator, Universal Robots UR5e 6DOF Manipulator, Rethink Robotics Sawyer 7DOF Manipulator, Intel RealSense Camera, Oak-D Pro Camera, ZED Mini Stereo Camera, Robotiq Hand-E Adaptive Gripper, OnRobot 2FG7 Parallel-Jaw Gripper, DIGIT GelSight Tactile Sensor, and a Turtlebot with Velodyne LiDAR 🐢 
 <br>
-Languages: Python, Matlab
+Languages: Python, C++, Matlab
 <br>
-Additional Tools: Git, GitHub, Robot Operating System (ROS), Blender, PyTorch, TensorFlow
+Additional Tools: Git, GitHub, Robot Operating System (ROS), Docker, Blender, PyTorch, TensorFlow
   
 <h2  align="center">💻 GitHub Statistics </h2>
 

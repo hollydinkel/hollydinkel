@@ -1,3 +1,4 @@
+<br>
 <div align="center">
   <img src="https://github.com/JeffersonAero/JeffersonAero/blob/main/random_walk.jpg" alt="banner" width="700px"/>
 </div>
@@ -16,8 +17,8 @@ Additional Tools: Git, GitHub, Robot Operating System (ROS), Blender, PyTorch, T
   
 <h2  align="center">💻 GitHub Statistics </h2>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffersonAero&count_private=true)](https://github.com/hollydinkel)
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonAero&layout=compact&langs_count=6&count_private=true)](https://github.com/JeffersonAero)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hollydinkel&count_private=true)](https://github.com/hollydinkel)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hollydinkel&layout=compact&langs_count=6&count_private=true)](https://github.com/hollydinkel)
 
 <h2  align="center">📫 Follow Along </h2>
 <p align="center">

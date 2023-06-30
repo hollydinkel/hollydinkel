@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-  <img src="https://github.com/JeffersonAero/JeffersonAero/blob/main/random_walk.jpg" alt="banner" width="700px"/>
+  <img src="https://github.com/hollydinkel/hollydinkel/blob/main/random_walk.jpg" alt="banner" width="700px"/>
 </div>
 <br>
 

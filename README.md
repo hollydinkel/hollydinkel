@@ -22,7 +22,7 @@ Additional Tools: Git, GitHub, Robot Operating System (ROS), Docker, Blender, Py
 
 <h2  align="center">📫 Follow Along </h2>
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/hollymdinkel">
+<a target="_blank" href="https://www.linkedin.com/in/hollydinkel">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50px" title="LinkedIn"/>
 </a>
 <a target="_blank" href="https://twitter.com/Jefferson_Aero">

@@ -14,25 +14,23 @@ Hardware: ABB IRB 120 6DOF Manipulator, Universal Robots UR5e 6DOF Manipulator, 
 Languages: Python, C++, Matlab
 <br>
 Additional Tools: Git, GitHub, Robot Operating System (ROS), Docker, Blender, PyTorch, TensorFlow
-  
-<h2  align="center">💻 GitHub Statistics </h2>
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hollydinkel&count_private=true)](https://github.com/hollydinkel)
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hollydinkel&layout=compact&langs_count=6&count_private=true)](https://github.com/hollydinkel)
 
 <h2  align="center">📫 Follow Along </h2>
 <p align="center">
+<a target="_blank" href="https://hollydinkel.github.io">
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/safari.svg" width="50px" title="Safari"/>
+</a>
 <a target="_blank" href="https://www.linkedin.com/in/hollydinkel">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="50px" title="LinkedIn"/>
-</a>
-<a target="_blank" href="https://twitter.com/Jefferson_Aero">
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="50px" title="Twitter"/>
 </a>
 <a target="_blank" href="https://scholar.google.com/citations?user=5LW2KOkAAAAJ&hl=en&oi=ao">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/google_scholar.svg" width="50px" title="Google Scholar"/>
 </a>
-  
+<a target="_blank" href="https://www.youtube.com/@uiucrmdlo">
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="50px" title="YouTube"/>
+</a>
 </p>
+
  <br> <br>
   <img src="https://komarev.com/ghpvc/?username=hollydinkel" alt="https://github.com/hollydinkel" />
 </p>
